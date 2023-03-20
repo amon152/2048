@@ -24,7 +24,7 @@ this.size = 4
 
 **Functies:**
 ```javascript
-startGame() // zet de eerste 2 velden. 
+startGame()  
 drawUpdate() // update de game.
 ```
 ## Board.js *extends Game*
