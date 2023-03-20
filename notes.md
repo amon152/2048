@@ -31,19 +31,19 @@ drawUpdate()
 Bevat alle functies met betrekking tot het bord.
 ```javascript
 grid() 
-getBoard() // vraag huidige bord op
+getBoard() 
 ```
 
 ## Tile.js *extends Board*
 Bevat alle functies voor tegels\
 **Variabelen:**
 ```javascript
-this.tileValue = 2 // startwaarde tegel
+this.tileValue = 2 
 ```
 **Functies:**
 ```javascript
-isValid(x,y) // check of een tegel leeg is
-random() // return een willekeurige tegel op een leeg veld
+isValid(x,y) 
+random()
 get()
 set(x,y)
 clear(x,y)
