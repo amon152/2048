@@ -19,7 +19,7 @@ window.onload = () => {}
 Heeft logika over de game zelf. \
 **Variabelen:**
 ```javascript
-this.size = 4 // breedte van grid.
+this.size = 4 
 ```
 
 **Functies:**
