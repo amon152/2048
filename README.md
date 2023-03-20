@@ -16,6 +16,7 @@ Made this as a practice tutorial for Javascript.
         * Show a text in the winner div if a tile has reached 2048
     * **Valid Moves**
         * Immplement a Game function
+        * Game valid moves
         * Check the board for valid moves
         * Only if a valid move has been executed, a tile should be added
     * **Death**
