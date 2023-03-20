@@ -48,7 +48,7 @@ get()
 set(x,y)
 clear(x,y)
 hasEmpty(row, col, toCheckRow, toCheckCol) // check of tegel ernaast leeg is
-hasSameValue(row, col, toCheckRow, toCheckCol) // check of tegel ernaast dezelfde waarde heeft
+hasSameValue(row, col, toCheckRow, toCheckCol) 
 ```
 
 
