@@ -47,7 +47,7 @@ random() // return een willekeurige tegel op een leeg veld
 get()
 set(x,y)
 clear(x,y)
-hasEmpty(row, col, toCheckRow, toCheckCol) // check of tegel ernaast leeg is
+hasEmpty(row, col, toCheckRow, toCheckCol) 
 hasSameValue(row, col, toCheckRow, toCheckCol) 
 ```
 
