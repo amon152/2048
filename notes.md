@@ -25,7 +25,7 @@ this.size = 4
 **Functies:**
 ```javascript
 startGame()  
-drawUpdate() // update de game.
+drawUpdate() 
 ```
 ## Board.js *extends Game*
 Bevat alle functies met betrekking tot het bord.
