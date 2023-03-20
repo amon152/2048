@@ -30,7 +30,7 @@ drawUpdate()
 ## Board.js *extends Game*
 Bevat alle functies met betrekking tot het bord.
 ```javascript
-grid() // maakt een grid aan
+grid() 
 getBoard() // vraag huidige bord op
 ```
 
